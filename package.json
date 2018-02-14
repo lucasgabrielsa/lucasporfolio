@@ -1,7 +1,7 @@
 {
   "name": "lucasportfolio",
   "version": "0.0.1",
-  "description": "a project test from nodejs server e angular front",
+  "description": "nodejs server - angular front",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,6 @@
   "dependencies": {
     "ejs": "^2.5.7",
     "express": "^4.16.2"
-  }
+  },
+  "repository": "https://github.com/lucasgabrielsa/lucasporfolio.git"
 }
